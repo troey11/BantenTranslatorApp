@@ -1,0 +1,7 @@
+#Fri Aug 08 12:03:37 WIB 2025
+base.0=D\:\\ANDROID\\2025\\BantenTranslatorApp_ready_fullfix\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=D\:\\ANDROID\\2025\\BantenTranslatorApp_ready_fullfix\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

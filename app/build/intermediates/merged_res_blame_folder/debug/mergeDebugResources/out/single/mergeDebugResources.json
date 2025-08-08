@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\drawable_ic_swap.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\drawable\\ic_swap.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\drawable_ic_stats.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\drawable\\ic_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\layout_item_search_result.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\layout_fragment_translate.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\fragment_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\drawable_ic_translate.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\drawable\\ic_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\layout_fragment_random_words.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\fragment_random_words.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\drawable_ic_shuffle.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\drawable\\ic_shuffle.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\layout_item_word.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\item_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "com.bantentranslator.app-debug-49:/drawable_ic_mic.xml.flat",
+        "source": "com.bantentranslator.app-main-51:/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\layout_fragment_stats.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-debug-49:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

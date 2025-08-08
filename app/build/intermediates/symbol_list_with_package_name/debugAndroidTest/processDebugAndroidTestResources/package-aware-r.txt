@@ -1,0 +1,3 @@
+com.bantentranslator.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

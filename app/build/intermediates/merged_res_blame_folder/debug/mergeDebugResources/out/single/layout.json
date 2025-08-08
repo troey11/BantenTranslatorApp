@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-mergeDebugResources-48:\\layout\\item_search_result.xml",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-mergeDebugResources-48:\\layout\\fragment_translate.xml",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\fragment_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-mergeDebugResources-48:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "com.bantentranslator.app-mergeDebugResources-48:/layout/fragment_translate.xml",
+        "source": "com.bantentranslator.app-main-51:/layout/fragment_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-mergeDebugResources-48:\\layout\\item_word.xml",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\item_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-mergeDebugResources-48:\\layout\\fragment_stats.xml",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-mergeDebugResources-48:\\layout\\fragment_random_words.xml",
+        "source": "C:\\Users\\it\\.gradle\\daemon\\8.9\\com.bantentranslator.app-main-51:\\layout\\fragment_random_words.xml"
+    }
+]
